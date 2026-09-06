@@ -1,5 +1,5 @@
 ---
-last_updated: "2026-07-02"
+last_updated: "2026-09-07"
 ---
 
 # Yasuaki Sumita
@@ -27,8 +27,8 @@ Hello. I'm Yasuaki Sumita (角田 康明), a 1st-year PhD student at Kashima-Tak
 
 ### Non-refereed
 
-1. **角田 康明**, 岩田 具治, 田中 利幸. モデル合成を用いた大規模言語モデルの出力の多様性向上. _2026年度人工知能学会全国大会_. 2026年6月.
-2. **角田 康明**, 竹内 孝, 鹿島 久嗣. 大規模言語モデルにおける認知バイアスの軽減. _2024年度人工知能学会全国大会_. 2024年5月. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2T5OS5b02/_article/-char/ja))
+1. **Yasuaki Sumita**, Tomoharu Iwata, Toshiyuki Tanaka. Improving Output Diversity in Large Language Models with Model Merging. _The 40th Annual Conference of the Japanese Society for Artificial Intelligence_. June 2026. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_4YinB61/_article/-char/en))
+2. **Yasuaki Sumita**, Koh Takeuchi, Hisashi Kashima. Mitigating Cognitive Biases in Large Language Models. _The 38th Annual Conference of the Japanese Society for Artificial Intelligence_. May 2024. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2T5OS5b02/_article/-char/en))
 
 ## Experiences
 
@@ -55,7 +55,7 @@ Hello. I'm Yasuaki Sumita (角田 康明), a 1st-year PhD student at Kashima-Tak
 - Applied Information Technology Engineer Examination, 2021.12.
 - Amateur Third-Class Radio Operator, 2016.3.
 - Programming: Python, JavaScript, C++
-  - [GitHub](https://github.com/corner0530)
+  - [GitHub](https://github.com/yasumita)
 
 ## Other Activities
 
