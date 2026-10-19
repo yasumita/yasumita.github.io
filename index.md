@@ -1,5 +1,5 @@
 ---
-last_updated: "2026-09-07"
+last_updated: "2026-10-19"
 ---
 
 # Yasuaki Sumita
@@ -27,8 +27,9 @@ Hello. I'm Yasuaki Sumita (角田 康明), a 1st-year PhD student at Kashima-Tak
 
 ### Non-refereed
 
-1. **Yasuaki Sumita**, Tomoharu Iwata, Toshiyuki Tanaka. Improving Output Diversity in Large Language Models with Model Merging. _The 40th Annual Conference of the Japanese Society for Artificial Intelligence_. June 2026. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_4YinB61/_article/-char/en))
-2. **Yasuaki Sumita**, Koh Takeuchi, Hisashi Kashima. Mitigating Cognitive Biases in Large Language Models. _The 38th Annual Conference of the Japanese Society for Artificial Intelligence_. May 2024. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2T5OS5b02/_article/-char/en))
+1. **Yasuaki Sumita**, Tomoharu Iwata, Toshiyuki Tanaka. Controlling the Diversity-Quality Trade-Off of LLMs by Merging Models Before and After Alignment. arXiv preprint arXiv:2610.22999, 2026. ([paper](https://arxiv.org/abs/2610.22999))
+2. **Yasuaki Sumita**, Tomoharu Iwata, Toshiyuki Tanaka. Improving Output Diversity in Large Language Models with Model Merging. _The 40th Annual Conference of the Japanese Society for Artificial Intelligence_. June 2026. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_4YinB61/_article/-char/en))
+3. **Yasuaki Sumita**, Koh Takeuchi, Hisashi Kashima. Mitigating Cognitive Biases in Large Language Models. _The 38th Annual Conference of the Japanese Society for Artificial Intelligence_. May 2024. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2T5OS5b02/_article/-char/en))
 
 ## Experiences
 

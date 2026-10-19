@@ -1,5 +1,5 @@
 ---
-last_updated: "2026-09-07"
+last_updated: "2026-10-19"
 ---
 
 # Yasuaki Sumita
@@ -27,8 +27,9 @@ last_updated: "2026-09-07"
 
 ### 査読なし
 
-1. **角田 康明**, 岩田 具治, 田中 利幸. モデル合成を用いた大規模言語モデルの出力の多様性向上. _2026年度人工知能学会全国大会_. 2026年6月. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_4YinB61/_article/-char/ja))
-2. **角田 康明**, 竹内 孝, 鹿島 久嗣. 大規模言語モデルにおける認知バイアスの軽減. _2024年度人工知能学会全国大会_. 2024年5月. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2T5OS5b02/_article/-char/ja))
+1. **Yasuaki Sumita**, Tomoharu Iwata, Toshiyuki Tanaka. Controlling the Diversity-Quality Trade-Off of LLMs by Merging Models Before and After Alignment. arXiv preprint arXiv:2610.22999, 2026. ([paper](https://arxiv.org/abs/2610.22999))
+2. **角田 康明**, 岩田 具治, 田中 利幸. モデル合成を用いた大規模言語モデルの出力の多様性向上. _2026年度人工知能学会全国大会_. 2026年6月. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_4YinB61/_article/-char/ja))
+3. **角田 康明**, 竹内 孝, 鹿島 久嗣. 大規模言語モデルにおける認知バイアスの軽減. _2024年度人工知能学会全国大会_. 2024年5月. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_2T5OS5b02/_article/-char/ja))
 
 ## 職歴
 
